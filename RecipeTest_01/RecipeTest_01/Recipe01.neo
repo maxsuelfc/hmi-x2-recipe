@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.46.49.0'?>
+<NeoItem d1p1:Serializer="Neo.ApplicationFramework.Common.Serialization.ObjectSerializer" xmlns:d1p1="urn:Neo.ApplicationFramework.Serializer">
+  <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.Recipe, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" SchemaVersion="343" DataVersion="75" Guid="7ce5a932-5d66-4173-aa0f-b2b808737c73" TableName="Recipe01" d1p1:Site.Name="Recipe01" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+    <RecipeItems>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_01" DataConnection="Tags.ScrewID_01" ColumnName="ScrewID_01" VisualSortOrder="1" d1p1:Site.Name="ScrewID_01" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH06">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH07">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH08">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH09">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH10">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH03">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_02" DataConnection="Tags.ScrewID_02" ColumnName="ScrewID_02" VisualSortOrder="2" d1p1:Site.Name="ScrewID_02" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH06">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="3" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH07">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="3" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH08">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH03">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_03" DataConnection="Tags.ScrewID_03" ColumnName="ScrewID_03" VisualSortOrder="3" d1p1:Site.Name="ScrewID_03" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="3" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH06">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="3" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="3" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH03">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="3" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_04" DataConnection="Tags.ScrewID_04" ColumnName="ScrewID_04" VisualSortOrder="4" d1p1:Site.Name="ScrewID_04" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="5" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="7" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH03">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="6" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_05" DataConnection="Tags.ScrewID_05" ColumnName="ScrewID_05" VisualSortOrder="5" d1p1:Site.Name="ScrewID_05" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="7" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="6" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_06" DataConnection="Tags.ScrewID_06" ColumnName="ScrewID_06" VisualSortOrder="6" d1p1:Site.Name="ScrewID_06" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="8" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="7" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="5" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_07" DataConnection="Tags.ScrewID_07" ColumnName="ScrewID_07" VisualSortOrder="7" d1p1:Site.Name="ScrewID_07" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="9" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="7" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="6" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH06">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="5" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="5" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_08" DataConnection="Tags.ScrewID_08" ColumnName="ScrewID_08" VisualSortOrder="8" d1p1:Site.Name="ScrewID_08" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="10" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="9" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_09" DataConnection="Tags.ScrewID_09" ColumnName="ScrewID_09" VisualSortOrder="9" d1p1:Site.Name="ScrewID_09" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="5" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="10" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_10" DataConnection="Tags.ScrewID_10" ColumnName="ScrewID_10" VisualSortOrder="10" d1p1:Site.Name="ScrewID_10" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="6" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="8" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_11" DataConnection="Tags.ScrewID_11" ColumnName="ScrewID_11" VisualSortOrder="11" d1p1:Site.Name="ScrewID_11" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="50" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_12" DataConnection="Tags.ScrewID_12" ColumnName="ScrewID_12" VisualSortOrder="12" d1p1:Site.Name="ScrewID_12" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="560" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_13" DataConnection="Tags.ScrewID_13" ColumnName="ScrewID_13" VisualSortOrder="13" d1p1:Site.Name="ScrewID_13" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="60" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_14" DataConnection="Tags.ScrewID_14" ColumnName="ScrewID_14" VisualSortOrder="14" d1p1:Site.Name="ScrewID_14" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="30" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_15" DataConnection="Tags.ScrewID_15" ColumnName="ScrewID_15" VisualSortOrder="15" d1p1:Site.Name="ScrewID_15" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="10" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_16" DataConnection="Tags.ScrewID_16" ColumnName="ScrewID_16" VisualSortOrder="16" d1p1:Site.Name="ScrewID_16" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="20" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_17" DataConnection="Tags.ScrewID_17" ColumnName="ScrewID_17" VisualSortOrder="17" d1p1:Site.Name="ScrewID_17" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="12" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_18" DataConnection="Tags.ScrewID_18" ColumnName="ScrewID_18" VisualSortOrder="18" d1p1:Site.Name="ScrewID_18" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_19" DataConnection="Tags.ScrewID_19" ColumnName="ScrewID_19" VisualSortOrder="19" d1p1:Site.Name="ScrewID_19" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="33" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewID_20" DataConnection="Tags.ScrewID_20" ColumnName="ScrewID_20" VisualSortOrder="20" d1p1:Site.Name="ScrewID_20" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="23" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_01" DataConnection="Tags.ScrewPosX_01" ColumnName="ScrewPosX_01" VisualSortOrder="21" d1p1:Site.Name="ScrewPosX_01" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="45" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="20" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="30" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="40" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH06">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="40" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH07">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="40" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH08">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH09">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="50" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH10">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="56" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH03">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="76" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_02" DataConnection="Tags.ScrewPosX_02" ColumnName="ScrewPosX_02" VisualSortOrder="22" d1p1:Site.Name="ScrewPosX_02" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="3" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="4" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH06">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="43" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH07">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="23" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH08">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="23" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH09">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="21" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH10">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="223" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH03">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="12" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_03" DataConnection="Tags.ScrewPosX_03" ColumnName="ScrewPosX_03" VisualSortOrder="23" d1p1:Site.Name="ScrewPosX_03" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="1" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH02">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="12" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH04">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="321" />
+            </RuntimeData>
+          </Object>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH05">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="3" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_04" DataConnection="Tags.ScrewPosX_04" ColumnName="ScrewPosX_04" VisualSortOrder="24" d1p1:Site.Name="ScrewPosX_04" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="2" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_05" DataConnection="Tags.ScrewPosX_05" ColumnName="ScrewPosX_05" VisualSortOrder="25" d1p1:Site.Name="ScrewPosX_05" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="11" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_06" DataConnection="Tags.ScrewPosX_06" ColumnName="ScrewPosX_06" VisualSortOrder="26" d1p1:Site.Name="ScrewPosX_06" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="23" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_07" DataConnection="Tags.ScrewPosX_07" ColumnName="ScrewPosX_07" VisualSortOrder="27" d1p1:Site.Name="ScrewPosX_07" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="445" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_08" DataConnection="Tags.ScrewPosX_08" ColumnName="ScrewPosX_08" VisualSortOrder="28" d1p1:Site.Name="ScrewPosX_08" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="654" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_09" DataConnection="Tags.ScrewPosX_09" ColumnName="ScrewPosX_09" VisualSortOrder="29" d1p1:Site.Name="ScrewPosX_09" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="45" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_10" DataConnection="Tags.ScrewPosX_10" ColumnName="ScrewPosX_10" VisualSortOrder="30" d1p1:Site.Name="ScrewPosX_10" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="67" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_11" DataConnection="Tags.ScrewPosX_11" ColumnName="ScrewPosX_11" VisualSortOrder="31" d1p1:Site.Name="ScrewPosX_11" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="12" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_12" DataConnection="Tags.ScrewPosX_12" ColumnName="ScrewPosX_12" VisualSortOrder="32" d1p1:Site.Name="ScrewPosX_12" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_13" DataConnection="Tags.ScrewPosX_13" ColumnName="ScrewPosX_13" VisualSortOrder="33" d1p1:Site.Name="ScrewPosX_13" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_14" DataConnection="Tags.ScrewPosX_14" ColumnName="ScrewPosX_14" VisualSortOrder="34" d1p1:Site.Name="ScrewPosX_14" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_15" DataConnection="Tags.ScrewPosX_15" ColumnName="ScrewPosX_15" VisualSortOrder="35" d1p1:Site.Name="ScrewPosX_15" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_16" DataConnection="Tags.ScrewPosX_16" ColumnName="ScrewPosX_16" VisualSortOrder="36" d1p1:Site.Name="ScrewPosX_16" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_17" DataConnection="Tags.ScrewPosX_17" ColumnName="ScrewPosX_17" VisualSortOrder="37" d1p1:Site.Name="ScrewPosX_17" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_18" DataConnection="Tags.ScrewPosX_18" ColumnName="ScrewPosX_18" VisualSortOrder="38" d1p1:Site.Name="ScrewPosX_18" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_19" DataConnection="Tags.ScrewPosX_19" ColumnName="ScrewPosX_19" VisualSortOrder="39" d1p1:Site.Name="ScrewPosX_19" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosX_20" DataConnection="Tags.ScrewPosX_20" ColumnName="ScrewPosX_20" VisualSortOrder="40" d1p1:Site.Name="ScrewPosX_20" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_01" DataConnection="Tags.ScrewPosY_01" ColumnName="ScrewPosY_01" VisualSortOrder="41" d1p1:Site.Name="ScrewPosY_01" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="31" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_02" DataConnection="Tags.ScrewPosY_02" ColumnName="ScrewPosY_02" VisualSortOrder="42" d1p1:Site.Name="ScrewPosY_02" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_03" DataConnection="Tags.ScrewPosY_03" ColumnName="ScrewPosY_03" VisualSortOrder="43" d1p1:Site.Name="ScrewPosY_03" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_04" DataConnection="Tags.ScrewPosY_04" ColumnName="ScrewPosY_04" VisualSortOrder="44" d1p1:Site.Name="ScrewPosY_04" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_05" DataConnection="Tags.ScrewPosY_05" ColumnName="ScrewPosY_05" VisualSortOrder="45" d1p1:Site.Name="ScrewPosY_05" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_06" DataConnection="Tags.ScrewPosY_06" ColumnName="ScrewPosY_06" VisualSortOrder="46" d1p1:Site.Name="ScrewPosY_06" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_07" DataConnection="Tags.ScrewPosY_07" ColumnName="ScrewPosY_07" VisualSortOrder="47" d1p1:Site.Name="ScrewPosY_07" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_08" DataConnection="Tags.ScrewPosY_08" ColumnName="ScrewPosY_08" VisualSortOrder="48" d1p1:Site.Name="ScrewPosY_08" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_09" DataConnection="Tags.ScrewPosY_09" ColumnName="ScrewPosY_09" VisualSortOrder="49" d1p1:Site.Name="ScrewPosY_09" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_10" DataConnection="Tags.ScrewPosY_10" ColumnName="ScrewPosY_10" VisualSortOrder="50" d1p1:Site.Name="ScrewPosY_10" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosY_11" DataConnection="Tags.ScrewPosY_11" ColumnName="ScrewPosY_11" VisualSortOrder="51" d1p1:Site.Name="ScrewPosY_11" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="312" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem52" DataConnection="Tags.ScrewPosY_12" ColumnName="RecipeItem52" VisualSortOrder="52" d1p1:Site.Name="RecipeItem52" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem53" DataConnection="Tags.ScrewPosY_13" ColumnName="RecipeItem53" VisualSortOrder="53" d1p1:Site.Name="RecipeItem53" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem54" DataConnection="Tags.ScrewPosY_14" ColumnName="RecipeItem54" VisualSortOrder="54" d1p1:Site.Name="RecipeItem54" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem55" DataConnection="Tags.ScrewPosY_15" ColumnName="RecipeItem55" VisualSortOrder="55" d1p1:Site.Name="RecipeItem55" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem56" DataConnection="Tags.ScrewPosY_16" ColumnName="RecipeItem56" VisualSortOrder="56" d1p1:Site.Name="RecipeItem56" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem57" DataConnection="Tags.ScrewPosY_17" ColumnName="RecipeItem57" VisualSortOrder="57" d1p1:Site.Name="RecipeItem57" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem58" DataConnection="Tags.ScrewPosY_18" ColumnName="RecipeItem58" VisualSortOrder="58" d1p1:Site.Name="RecipeItem58" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem59" DataConnection="Tags.ScrewPosY_19" ColumnName="RecipeItem59" VisualSortOrder="59" d1p1:Site.Name="RecipeItem59" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="RecipeItem60" DataConnection="Tags.ScrewPosY_20" ColumnName="RecipeItem60" VisualSortOrder="60" d1p1:Site.Name="RecipeItem60" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_01" DataConnection="Tags.ScrewPosZ_01" ColumnName="ScrewPosZ_01" VisualSortOrder="61" d1p1:Site.Name="ScrewPosZ_01" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732">
+        <RecipeDataItems>
+          <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeDataItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" RecipeTitleName="Model#ABCDEFGH01">
+            <RuntimeData>
+              <Object d1p1:type="System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="234" />
+            </RuntimeData>
+          </Object>
+        </RecipeDataItems>
+      </Object>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_02" DataConnection="Tags.ScrewPosZ_02" ColumnName="ScrewPosZ_02" VisualSortOrder="62" d1p1:Site.Name="ScrewPosZ_02" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_03" DataConnection="Tags.ScrewPosZ_03" ColumnName="ScrewPosZ_03" VisualSortOrder="63" d1p1:Site.Name="ScrewPosZ_03" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_04" DataConnection="Tags.ScrewPosZ_04" ColumnName="ScrewPosZ_04" VisualSortOrder="64" d1p1:Site.Name="ScrewPosZ_04" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_05" DataConnection="Tags.ScrewPosZ_05" ColumnName="ScrewPosZ_05" VisualSortOrder="65" d1p1:Site.Name="ScrewPosZ_05" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_06" DataConnection="Tags.ScrewPosZ_06" ColumnName="ScrewPosZ_06" VisualSortOrder="66" d1p1:Site.Name="ScrewPosZ_06" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_07" DataConnection="Tags.ScrewPosZ_07" ColumnName="ScrewPosZ_07" VisualSortOrder="67" d1p1:Site.Name="ScrewPosZ_07" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_08" DataConnection="Tags.ScrewPosZ_08" ColumnName="ScrewPosZ_08" VisualSortOrder="68" d1p1:Site.Name="ScrewPosZ_08" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_09" DataConnection="Tags.ScrewPosZ_09" ColumnName="ScrewPosZ_09" VisualSortOrder="69" d1p1:Site.Name="ScrewPosZ_09" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_10" DataConnection="Tags.ScrewPosZ_10" ColumnName="ScrewPosZ_10" VisualSortOrder="70" d1p1:Site.Name="ScrewPosZ_10" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_11" DataConnection="Tags.ScrewPosZ_11" ColumnName="ScrewPosZ_11" VisualSortOrder="71" d1p1:Site.Name="ScrewPosZ_11" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_12" DataConnection="Tags.ScrewPosZ_12" ColumnName="ScrewPosZ_12" VisualSortOrder="72" d1p1:Site.Name="ScrewPosZ_12" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_13" DataConnection="Tags.ScrewPosZ_13" ColumnName="ScrewPosZ_13" VisualSortOrder="73" d1p1:Site.Name="ScrewPosZ_13" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_14" DataConnection="Tags.ScrewPosZ_14" ColumnName="ScrewPosZ_14" VisualSortOrder="74" d1p1:Site.Name="ScrewPosZ_14" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_15" DataConnection="Tags.ScrewPosZ_15" ColumnName="ScrewPosZ_15" VisualSortOrder="75" d1p1:Site.Name="ScrewPosZ_15" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_16" DataConnection="Tags.ScrewPosZ_16" ColumnName="ScrewPosZ_16" VisualSortOrder="76" d1p1:Site.Name="ScrewPosZ_16" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_17" DataConnection="Tags.ScrewPosZ_17" ColumnName="ScrewPosZ_17" VisualSortOrder="77" d1p1:Site.Name="ScrewPosZ_17" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_18" DataConnection="Tags.ScrewPosZ_18" ColumnName="ScrewPosZ_18" VisualSortOrder="78" d1p1:Site.Name="ScrewPosZ_18" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_19" DataConnection="Tags.ScrewPosZ_19" ColumnName="ScrewPosZ_19" VisualSortOrder="79" d1p1:Site.Name="ScrewPosZ_19" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.Recipe.RecipeItem, ToolsCF, Version=2.46.49.0, Culture=neutral, PublicKeyToken=null" Name="ScrewPosZ_20" DataConnection="Tags.ScrewPosZ_20" ColumnName="ScrewPosZ_20" VisualSortOrder="80" d1p1:Site.Name="ScrewPosZ_20" ProjectGuid="131ba990-4e70-45a2-a6f3-5962da194732" />
+    </RecipeItems>
+    <FieldNames>
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH01" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH02" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH04" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH05" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH06" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH07" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH08" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH09" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH10" />
+      <Object d1p1:type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" primitive.value="Model#ABCDEFGH03" />
+    </FieldNames>
+  </Object>
+</NeoItem>

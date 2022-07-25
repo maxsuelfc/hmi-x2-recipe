@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project SchemaVersion="2.46.49.0" ProjectRevision="270">
+  <Guid>131ba990-4e70-45a2-a6f3-5962da194732</Guid>
+  <ProjectFiles>
+    <ProjectFile Name="ReferencedAssembly\System.Data.SQLite.dll" ModifiedDate="2022-07-19T22:02:27.7235794-04:00" Length="299008" />
+    <ProjectFile Name="AlarmServer.neo" ModifiedDate="2022-07-19T22:02:26.9371573-04:00" Length="1039" />
+    <ProjectFile Name="Expressions.neo" ModifiedDate="2022-07-19T22:02:27.0573543-04:00" Length="430" />
+    <ProjectFile Name="MultipleLanguages.neo" ModifiedDate="2022-07-24T00:22:18.4681308-04:00" Length="17053" />
+    <ProjectFile Name="Tags.neo" ModifiedDate="2022-07-24T16:41:43.4651702-04:00" Length="51045" />
+    <ProjectFile Name="Tags.Script.cs" ModifiedDate="2022-07-24T16:41:43.4651702-04:00" Length="950" />
+    <ProjectFile Name="Security.neo" ModifiedDate="2022-07-19T22:02:27.4003146-04:00" Length="456" />
+    <ProjectFile Name="Security.xml" ModifiedDate="2022-07-19T22:02:27.4097909-04:00" Length="694" />
+    <ProjectFile Name="ProjectImages.neo" ModifiedDate="2022-07-19T22:02:27.1551305-04:00" Length="454" />
+    <ProjectFile Name="Symbols\reel.png" ModifiedDate="2022-07-19T22:02:27.7676116-04:00" Length="144434" />
+    <ProjectFile Name="Symbols\beijerlogo.jpg" ModifiedDate="2022-07-19T22:02:27.7375367-04:00" Length="1438" />
+    <ProjectFile Name="Symbols\open (1).gif" ModifiedDate="2022-07-19T22:02:27.7484958-04:00" Length="2547" />
+    <ProjectFile Name="LicenseRootComponent.neo" ModifiedDate="2022-07-19T22:02:27.0842628-04:00" Length="21024" />
+    <ProjectFile Name="ProjectConfiguration.neo" ModifiedDate="2022-07-19T22:02:27.1382418-04:00" Length="6349" />
+    <ProjectFile Name="SntpClientRootComponent.neo" ModifiedDate="2022-07-19T22:02:27.4278425-04:00" Length="441" />
+    <ProjectFile Name="RecipeData.neoxaml" ModifiedDate="2022-07-24T16:48:49.155301-04:00" Length="799" />
+    <ProjectFile Name="RecipeData.Script.cs" ModifiedDate="2022-07-24T16:48:49.155301-04:00" Length="9157" />
+    <ProjectFile Name="RecipeData.xaml" ModifiedDate="2022-07-24T16:48:49.2023045-04:00" Length="31503" />
+    <ProjectFile Name="Screen1.neoxaml" ModifiedDate="2022-07-19T22:02:27.2946642-04:00" Length="796" />
+    <ProjectFile Name="Screen1.Script.cs" ModifiedDate="2022-07-19T22:02:27.3295501-04:00" Length="782" />
+    <ProjectFile Name="Screen1.xaml" ModifiedDate="2022-07-19T22:02:27.3385197-04:00" Length="2917" />
+    <ProjectFile Name="Controller1.neo" ModifiedDate="2022-07-19T22:02:26.9905417-04:00" Length="828" />
+    <ProjectFile Name="Recipe01.neo" ModifiedDate="2022-07-24T16:43:41.4050408-04:00" Length="68813" />
+    <ProjectFile Name="Printer1.xml" ModifiedDate="2022-07-19T22:02:27.1112371-04:00" Length="850" />
+    <ProjectFile Name="ScriptModule1.neo" ModifiedDate="2022-07-19T22:02:27.3734091-04:00" Length="472" />
+    <ProjectFile Name="ScriptModule1.Script.cs" ModifiedDate="2022-07-19T22:02:27.3813759-04:00" Length="790" />
+  </ProjectFiles>
+</Project>

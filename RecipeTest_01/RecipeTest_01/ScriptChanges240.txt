@@ -1,0 +1,1 @@
+Tags.Script.cs: Neo.ApplicationFramework.Interfaces.Events.ValueChangedEventArgs => Core.Api.DataSource.ValueChangedEventArgs Type moved to new namespace.

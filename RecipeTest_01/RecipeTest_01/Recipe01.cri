@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.46.49.0">
+  <Categories>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Recipe01.ScrewID_01" TargetProperty="Value" Source="Tags.ScrewID_01" />
+        <Item Target="Recipe01.ScrewID_02" TargetProperty="Value" Source="Tags.ScrewID_02" />
+        <Item Target="Recipe01.ScrewID_03" TargetProperty="Value" Source="Tags.ScrewID_03" />
+        <Item Target="Recipe01.ScrewID_04" TargetProperty="Value" Source="Tags.ScrewID_04" />
+        <Item Target="Recipe01.ScrewID_05" TargetProperty="Value" Source="Tags.ScrewID_05" />
+        <Item Target="Recipe01.ScrewID_06" TargetProperty="Value" Source="Tags.ScrewID_06" />
+        <Item Target="Recipe01.ScrewID_07" TargetProperty="Value" Source="Tags.ScrewID_07" />
+        <Item Target="Recipe01.ScrewID_08" TargetProperty="Value" Source="Tags.ScrewID_08" />
+        <Item Target="Recipe01.ScrewID_09" TargetProperty="Value" Source="Tags.ScrewID_09" />
+        <Item Target="Recipe01.ScrewID_10" TargetProperty="Value" Source="Tags.ScrewID_10" />
+        <Item Target="Recipe01.ScrewID_11" TargetProperty="Value" Source="Tags.ScrewID_11" />
+        <Item Target="Recipe01.ScrewID_12" TargetProperty="Value" Source="Tags.ScrewID_12" />
+        <Item Target="Recipe01.ScrewID_13" TargetProperty="Value" Source="Tags.ScrewID_13" />
+        <Item Target="Recipe01.ScrewID_14" TargetProperty="Value" Source="Tags.ScrewID_14" />
+        <Item Target="Recipe01.ScrewID_15" TargetProperty="Value" Source="Tags.ScrewID_15" />
+        <Item Target="Recipe01.ScrewID_16" TargetProperty="Value" Source="Tags.ScrewID_16" />
+        <Item Target="Recipe01.ScrewID_17" TargetProperty="Value" Source="Tags.ScrewID_17" />
+        <Item Target="Recipe01.ScrewID_18" TargetProperty="Value" Source="Tags.ScrewID_18" />
+        <Item Target="Recipe01.ScrewID_19" TargetProperty="Value" Source="Tags.ScrewID_19" />
+        <Item Target="Recipe01.ScrewID_20" TargetProperty="Value" Source="Tags.ScrewID_20" />
+        <Item Target="Recipe01.ScrewPosX_01" TargetProperty="Value" Source="Tags.ScrewPosX_01" />
+        <Item Target="Recipe01.ScrewPosX_02" TargetProperty="Value" Source="Tags.ScrewPosX_02" />
+        <Item Target="Recipe01.ScrewPosX_03" TargetProperty="Value" Source="Tags.ScrewPosX_03" />
+        <Item Target="Recipe01.ScrewPosX_04" TargetProperty="Value" Source="Tags.ScrewPosX_04" />
+        <Item Target="Recipe01.ScrewPosX_05" TargetProperty="Value" Source="Tags.ScrewPosX_05" />
+        <Item Target="Recipe01.ScrewPosX_06" TargetProperty="Value" Source="Tags.ScrewPosX_06" />
+        <Item Target="Recipe01.ScrewPosX_07" TargetProperty="Value" Source="Tags.ScrewPosX_07" />
+        <Item Target="Recipe01.ScrewPosX_08" TargetProperty="Value" Source="Tags.ScrewPosX_08" />
+        <Item Target="Recipe01.ScrewPosX_09" TargetProperty="Value" Source="Tags.ScrewPosX_09" />
+        <Item Target="Recipe01.ScrewPosX_10" TargetProperty="Value" Source="Tags.ScrewPosX_10" />
+        <Item Target="Recipe01.ScrewPosX_11" TargetProperty="Value" Source="Tags.ScrewPosX_11" />
+        <Item Target="Recipe01.ScrewPosX_12" TargetProperty="Value" Source="Tags.ScrewPosX_12" />
+        <Item Target="Recipe01.ScrewPosX_13" TargetProperty="Value" Source="Tags.ScrewPosX_13" />
+        <Item Target="Recipe01.ScrewPosX_14" TargetProperty="Value" Source="Tags.ScrewPosX_14" />
+        <Item Target="Recipe01.ScrewPosX_15" TargetProperty="Value" Source="Tags.ScrewPosX_15" />
+        <Item Target="Recipe01.ScrewPosX_16" TargetProperty="Value" Source="Tags.ScrewPosX_16" />
+        <Item Target="Recipe01.ScrewPosX_17" TargetProperty="Value" Source="Tags.ScrewPosX_17" />
+        <Item Target="Recipe01.ScrewPosX_18" TargetProperty="Value" Source="Tags.ScrewPosX_18" />
+        <Item Target="Recipe01.ScrewPosX_19" TargetProperty="Value" Source="Tags.ScrewPosX_19" />
+        <Item Target="Recipe01.ScrewPosX_20" TargetProperty="Value" Source="Tags.ScrewPosX_20" />
+        <Item Target="Recipe01.ScrewPosY_01" TargetProperty="Value" Source="Tags.ScrewPosY_01" />
+        <Item Target="Recipe01.ScrewPosY_02" TargetProperty="Value" Source="Tags.ScrewPosY_02" />
+        <Item Target="Recipe01.ScrewPosY_03" TargetProperty="Value" Source="Tags.ScrewPosY_03" />
+        <Item Target="Recipe01.ScrewPosY_04" TargetProperty="Value" Source="Tags.ScrewPosY_04" />
+        <Item Target="Recipe01.ScrewPosY_05" TargetProperty="Value" Source="Tags.ScrewPosY_05" />
+        <Item Target="Recipe01.ScrewPosY_06" TargetProperty="Value" Source="Tags.ScrewPosY_06" />
+        <Item Target="Recipe01.ScrewPosY_07" TargetProperty="Value" Source="Tags.ScrewPosY_07" />
+        <Item Target="Recipe01.ScrewPosY_08" TargetProperty="Value" Source="Tags.ScrewPosY_08" />
+        <Item Target="Recipe01.ScrewPosY_09" TargetProperty="Value" Source="Tags.ScrewPosY_09" />
+        <Item Target="Recipe01.ScrewPosY_10" TargetProperty="Value" Source="Tags.ScrewPosY_10" />
+        <Item Target="Recipe01.ScrewPosY_11" TargetProperty="Value" Source="Tags.ScrewPosY_11" />
+        <Item Target="Recipe01.RecipeItem52" TargetProperty="Value" Source="Tags.ScrewPosY_12" />
+        <Item Target="Recipe01.RecipeItem53" TargetProperty="Value" Source="Tags.ScrewPosY_13" />
+        <Item Target="Recipe01.RecipeItem54" TargetProperty="Value" Source="Tags.ScrewPosY_14" />
+        <Item Target="Recipe01.RecipeItem55" TargetProperty="Value" Source="Tags.ScrewPosY_15" />
+        <Item Target="Recipe01.RecipeItem56" TargetProperty="Value" Source="Tags.ScrewPosY_16" />
+        <Item Target="Recipe01.RecipeItem57" TargetProperty="Value" Source="Tags.ScrewPosY_17" />
+        <Item Target="Recipe01.RecipeItem58" TargetProperty="Value" Source="Tags.ScrewPosY_18" />
+        <Item Target="Recipe01.RecipeItem59" TargetProperty="Value" Source="Tags.ScrewPosY_19" />
+        <Item Target="Recipe01.RecipeItem60" TargetProperty="Value" Source="Tags.ScrewPosY_20" />
+        <Item Target="Recipe01.ScrewPosZ_01" TargetProperty="Value" Source="Tags.ScrewPosZ_01" />
+        <Item Target="Recipe01.ScrewPosZ_02" TargetProperty="Value" Source="Tags.ScrewPosZ_02" />
+        <Item Target="Recipe01.ScrewPosZ_03" TargetProperty="Value" Source="Tags.ScrewPosZ_03" />
+        <Item Target="Recipe01.ScrewPosZ_04" TargetProperty="Value" Source="Tags.ScrewPosZ_04" />
+        <Item Target="Recipe01.ScrewPosZ_05" TargetProperty="Value" Source="Tags.ScrewPosZ_05" />
+        <Item Target="Recipe01.ScrewPosZ_06" TargetProperty="Value" Source="Tags.ScrewPosZ_06" />
+        <Item Target="Recipe01.ScrewPosZ_07" TargetProperty="Value" Source="Tags.ScrewPosZ_07" />
+        <Item Target="Recipe01.ScrewPosZ_08" TargetProperty="Value" Source="Tags.ScrewPosZ_08" />
+        <Item Target="Recipe01.ScrewPosZ_09" TargetProperty="Value" Source="Tags.ScrewPosZ_09" />
+        <Item Target="Recipe01.ScrewPosZ_10" TargetProperty="Value" Source="Tags.ScrewPosZ_10" />
+        <Item Target="Recipe01.ScrewPosZ_11" TargetProperty="Value" Source="Tags.ScrewPosZ_11" />
+        <Item Target="Recipe01.ScrewPosZ_12" TargetProperty="Value" Source="Tags.ScrewPosZ_12" />
+        <Item Target="Recipe01.ScrewPosZ_13" TargetProperty="Value" Source="Tags.ScrewPosZ_13" />
+        <Item Target="Recipe01.ScrewPosZ_14" TargetProperty="Value" Source="Tags.ScrewPosZ_14" />
+        <Item Target="Recipe01.ScrewPosZ_15" TargetProperty="Value" Source="Tags.ScrewPosZ_15" />
+        <Item Target="Recipe01.ScrewPosZ_16" TargetProperty="Value" Source="Tags.ScrewPosZ_16" />
+        <Item Target="Recipe01.ScrewPosZ_17" TargetProperty="Value" Source="Tags.ScrewPosZ_17" />
+        <Item Target="Recipe01.ScrewPosZ_18" TargetProperty="Value" Source="Tags.ScrewPosZ_18" />
+        <Item Target="Recipe01.ScrewPosZ_19" TargetProperty="Value" Source="Tags.ScrewPosZ_19" />
+        <Item Target="Recipe01.ScrewPosZ_20" TargetProperty="Value" Source="Tags.ScrewPosZ_20" />
+      </Items>
+    </Category>
+  </Categories>
+</CrossReferences>
